@@ -1,0 +1,11 @@
+
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ
+Z
+java:S21473"DCombine this catch with the one at line 49, which has the same body.(ıàÑÎ
+a
+java:S2147H"DCombine this catch with the one at line 70, which has the same body.(ıàÑÎ8Ô°’“¶/
+q
+java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ëäÄ©ıÿÿÿÿ8ñ°’“¶/
+l
+java:S2095?"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ëŸÂö8šµ““¶/

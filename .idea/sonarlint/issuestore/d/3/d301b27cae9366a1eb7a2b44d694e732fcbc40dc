@@ -1,0 +1,6 @@
+
+p	java:S116"VRename this field "login_field" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü´Ûóÿÿÿÿÿ
+n	java:S116 "YRename this field "password_field" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ†’ë
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(õ´ô¦ùÿÿÿÿ
+I
+java:S16028",Remove useless curly braces around statement(œÂ8×´«”¶/
